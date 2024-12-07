@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog anout old maps
+title: Welcome to my blog about old maps
 ---
 
