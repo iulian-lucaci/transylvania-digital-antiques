@@ -1,7 +1,6 @@
 ---
 title: "La Hongrie avec les Provinces adjacentes - de la Tour - 1766 transylvania"
 date: 2024-12-07
-category: Transylvania
 ---
 ![Map](/skills-github-pages/assets/2024-04-07_030957.jpg "Map")
 #### Title ####
