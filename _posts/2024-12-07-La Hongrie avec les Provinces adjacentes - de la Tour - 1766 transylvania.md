@@ -1,7 +1,9 @@
 ---
 title: "La Hongrie avec les Provinces adjacentes - de la Tour - 1766 transylvania"
 date: 2024-12-07
-full title: "La Hongrie avec les Provinces adjacentes formant tout ensemble2, Grandes Provinces Ecclésiastiques Par M. Brion Ingénieur-Géographe du Roi. A Paris chez le S. Desnos, Ingenieur pour les Globes et Sphère ruë St. Jacques, au Globe 1766."
+Full Title
+----------
+"La Hongrie avec les Provinces adjacentes formant tout ensemble2, Grandes Provinces Ecclésiastiques Par M. Brion Ingénieur-Géographe du Roi. A Paris chez le S. Desnos, Ingenieur pour les Globes et Sphère ruë St. Jacques, au Globe 1766."
 description: "Striking and highly detailed fine unusual 1766 copper engraved map of Hungary and Transylvania (modern day Romania) by French cartographer Louis Brion de la Tour. The map covers the region from the Carpathian Mountains south as far as the Danube River, including parts of modern day Hungary, Romania, Slovakia and Serbia. Renders the entire region in extraordinary detail offering both topographical and political information.
 
 Hungary at this time was under the role of Joseph II, a dynamic leader strongly influenced by the enlightenment. Joseph shook Hungary from its malaise when he inherited the throne from his mother, Maria Theresa. In the framework of Josephinism, Joseph sought to centralize control of the empire and to rule it by decree as an enlightened despot. He refused to take the Hungarian coronation oath to avoid being constrained by Hungary's constitution. In 1781-82 Joseph issued a Patent of Toleration, followed by an edict of Tolerance which granted Protestants and Orthodox Christians full civil rights and Jews freedom of worship. He decreed that German replace Latin as the empire's official language and granted the peasants the freedom to leave their holdings, to marry, and to place their children in trades. Hungary, Slavonia, Croatia, the Military Frontier and Transylvania became a single imperial territory under one administration, called the Kingdom of Hungary or 'Lands of the Crown of St. Stephen.'
