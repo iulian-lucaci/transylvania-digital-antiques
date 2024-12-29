@@ -2,14 +2,15 @@ markdown: kramdown
 theme: minima
 title: Transylvania Digital Antiques
 description: Blog about old maps of Romania
+url: "https://iulian-lucaci.github.io"
+baseurl: "/transylvania-digital-antiques"
 collections:
   posts:
     output: true
     permalink: /:categories/:title
     categories:
-    - blog
-    - tutorial
-    - news
+    - danube
+    - transylvania
 
 defaults:
   - scope:
@@ -17,4 +18,4 @@ defaults:
       type: posts
     values:
       layout: post
-      author: default_author
+      author: Iulian Lucaci
