@@ -2,3 +2,19 @@ markdown: kramdown
 theme: minima
 title: Transylvania Digital Antiques
 description: Blog about old maps of Romania
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title
+    categories:
+    - blog
+    - tutorial
+    - news
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: default_author

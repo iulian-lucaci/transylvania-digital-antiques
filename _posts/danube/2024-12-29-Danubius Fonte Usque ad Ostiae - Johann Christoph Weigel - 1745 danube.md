@@ -1,7 +1,8 @@
 ---
 title: "Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745 Danube"
 date: 2024-12-29
-categories: Banat Bessarabia Danube Dobrogea Moldova Transylvania Wallachia
+categories: [blog, update]
+tags: [Banat, Bessarabia, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
 ---
 ![Map](/transylvania-digital-antiques/assets/2024-04-07_023373.jpg "Map")
