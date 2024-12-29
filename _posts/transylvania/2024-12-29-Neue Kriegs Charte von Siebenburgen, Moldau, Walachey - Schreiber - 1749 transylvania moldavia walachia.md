@@ -1,7 +1,7 @@
 ---
 title: "Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Schreiber - 1749 Transylvania Moldavia Walachia"
 date: 2024-12-29
-categories: [blog, update]
+categories: [transylvania]
 tags: [Banat, Bessarabia, Bukovina, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
 ---
