@@ -1,5 +1,5 @@
 ---
-title: "La Hongrie avec les Provinces adjacentes - de la Tour - 1766 Transylvania"
+title: "La Hongrie avec les Provinces adjacentes - de la Tour - 1766"
 date: 2024-12-07
 categories: [transylvania]
 tags: [Transylvania]
